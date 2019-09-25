@@ -1,0 +1,4 @@
+
+1. Adapt tensorflow include/lib paths in cmake/CMakeLists.txt 
+2. Run cmake/createBuild.sh
+3. Run "cmake --build ./build"
