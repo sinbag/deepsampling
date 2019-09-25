@@ -50,11 +50,7 @@ def buildEnvironment():
     fourierSetupList = []
 
     fourierSetup0 = setup.FourierSetup(
-<<<<<<< HEAD:src/experiments/experiment_singleSpectrum_fig8c.py
         resolution=48,
-=======
-        resolution=64,
->>>>>>> de1c056b2d8aca3940e48acac012b9c70af093ed:src/experiments/experiment_fig8c.py
         cancelDC=True,
         mcSamplesPerShell=48)
     fourierSetup0.loadTarget1D(io.joinPath(TARGET_DIR, "spectra/step-powspec-radialmean-d2-n1024.txt"))
