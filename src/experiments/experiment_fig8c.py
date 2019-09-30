@@ -6,7 +6,7 @@ import setup
 
 #============================================================================
 
-LOGS_DIR = "/HPS/Sinbag/archive00/2019-NeuralSampling/webpage-content/fig8c-step/"
+LOGS_DIR = "../fig8c-step/"
 TARGET_DIR = "../targets/"
 FILE_EXT = ".pdf"
 
