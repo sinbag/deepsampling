@@ -6,7 +6,7 @@ import setup
 
 #============================================================================
 
-LOGS_DIR = "/HPS/Sinbag/archive00/2019-NeuralSampling/webpage-content/fig8b-jitter/"
+LOGS_DIR = "../fig8b-jitter/"
 TARGET_DIR = "../targets/"
 FILE_EXT = ".pdf"
 
