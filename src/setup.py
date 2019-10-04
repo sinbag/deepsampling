@@ -21,12 +21,12 @@ class Environment:
     def __init__(
         self,
         trainingSetup,
-        fourierSetupList = None, 
+        fourierSetupList = None,
         histogramSetupList = None):
 
         self.trainingSetup = trainingSetup
-        self.fourierSetupList = fourierSetupList
         self.histogramSetupList = histogramSetupList
+        self.fourierSetupList = fourierSetupList
 
 #=======================================================
 
